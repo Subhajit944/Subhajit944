@@ -6,14 +6,17 @@
 - 🔭 I’m currently working on *C++, Python, Web Development*
 - 🌱 I’m currently learning *JavaScript, HTML, CSS, DSA*
 - 👨‍💻 Ask me about *C++, Python, HTML, CSS, JS*
-- 📫 How to reach me: subhajit9004@gmail.com
+- 📫 How to reach me:  subhajit9004@gmail.com
 - 🌐 Visit my portfolio (coming soon...)
 
 ---
 
 ### 🌐 Connect with me:
 
-[![Instagram] :https://www.instagram.com/annesh_das_official__944/
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajit9004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhajit944)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annesh_das_official__944/)
 
 ---
 
@@ -30,8 +33,8 @@
 
 ### 📊 GitHub Stats:
 
-![Subhajit das's GitHub stats]( https://github.com/Subhajit944)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annesh123&layout=compact&theme=tokyonight)
+![Subhajit's GitHub stats]( https://github.com/Subhajit944)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit944&layout=compact&theme=radical)](https://github.com/Subhajit944/github-readme-stats)
 
 ---
 
