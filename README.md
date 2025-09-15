@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** JavaScript,  React.js,  C++**
 
-- 🤝 I’m looking for help with **C++, Python, Html , Css,**
+- 🤝 I’m looking for help with **C++, Python, Html , Css,** 
 
 - 💬 Ask me about **  C++,  Python,  html,  css,  JavaScript**
 
