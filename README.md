@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on c++,  Python,  Web Development
 
-- 🌱 I’m currently learning   C++ .
+- 🌱 I’m currently learning   C++ , C.
 
 - 🤝 I’m looking for help with  C++, Python, Html , Css .
 
