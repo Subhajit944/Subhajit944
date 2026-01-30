@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on   Web Development
 
-- 🌱 I’m currently learning   C++ , C.
+- 🌱 I’m currently learning   C++ , C 
 
-- 🤝 I’m looking for help with  C++, Python, Html , Css .
+- 🤝 I’m looking for help with  C++, Python, Html , Css  , C
 
-- 💬 Ask me about **  C++,  Python,  html,  css 
+- 💬 Ask me about **  C++,  Python,  html,  css , C
 
 - 📫 My Gmail ID :  anneshdas832@gmail.com 
  
